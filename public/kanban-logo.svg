@@ -1,0 +1,54 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="240" fill="url(#gradient-bg)" />
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="gradient-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.1" />
+      <stop offset="50%" style="stop-color:#14b8a6;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:0.1" />
+    </linearGradient>
+    
+    <linearGradient id="gradient-cyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#14b8a6;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="gradient-pink" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f43f5e;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="gradient-purple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Column 1 - Cyan/Teal -->
+  <g>
+    <rect x="120" y="150" width="80" height="240" rx="12" fill="url(#gradient-cyan)" opacity="0.3"/>
+    <!-- Cards -->
+    <rect x="130" y="170" width="60" height="50" rx="8" fill="url(#gradient-cyan)"/>
+    <rect x="130" y="235" width="60" height="50" rx="8" fill="url(#gradient-cyan)"/>
+    <rect x="130" y="300" width="60" height="50" rx="8" fill="url(#gradient-cyan)"/>
+  </g>
+  
+  <!-- Column 2 - Pink/Rose -->
+  <g>
+    <rect x="216" y="150" width="80" height="240" rx="12" fill="url(#gradient-pink)" opacity="0.3"/>
+    <!-- Cards -->
+    <rect x="226" y="170" width="60" height="50" rx="8" fill="url(#gradient-pink)"/>
+    <rect x="226" y="235" width="60" height="50" rx="8" fill="url(#gradient-pink)"/>
+  </g>
+  
+  <!-- Column 3 - Purple/Violet -->
+  <g>
+    <rect x="312" y="150" width="80" height="240" rx="12" fill="url(#gradient-purple)" opacity="0.3"/>
+    <!-- Cards -->
+    <rect x="322" y="170" width="60" height="50" rx="8" fill="url(#gradient-purple)"/>
+    <rect x="322" y="235" width="60" height="50" rx="8" fill="url(#gradient-purple)"/>
+    <rect x="322" y="300" width="60" height="50" rx="8" fill="url(#gradient-purple)"/>
+  </g>
+</svg>
