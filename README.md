@@ -6,12 +6,11 @@
 ![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.2.4-646CFF?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.1.18-06B6D4?style=for-the-badge&logo=tailwindcss)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 **A beautiful, feature-rich Kanban board application with drag-and-drop functionality, built with modern web technologies.**
 
-[🔗 Live Demo](http://localhost:5173) • [📝 Report Bug](https://github.com/tusharbuildsweb-star/KanbanProject/issues) • [✨ Request Feature](https://github.com/tusharbuildsweb-star/KanbanProject/issues)
-
+[🔗 Live Demo](http://localhost:5173) 
 </div>
 
 ---
