@@ -10,7 +10,7 @@
 
 **A beautiful, feature-rich Kanban board application with drag-and-drop functionality, built with modern web technologies.**
 
-[🔗 Live Demo](http://localhost:5173) 
+[🔗 Live Demo](https://kanbanprojectkb.netlify.app/) 
 </div>
 
 ---
